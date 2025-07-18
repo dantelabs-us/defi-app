@@ -15,12 +15,9 @@ OS: Mac, Linux, Windows(An unexpected issue may arise)
 ## Getting Started
 
 To get started with the project, clone the repository and install the necessary dependencies:
-
-git clone https://gitlab.com/[username]/DeFi-App.git
-
+```
+git clone https://github.com/dantelabs-us/defi-app.git
 cd DeFi-App
-
 npm i
-
 npm start
-
+```
